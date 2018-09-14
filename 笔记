@@ -6,7 +6,7 @@ MongoDB
 	连接方法:命令行方式
 		进入到MongoDB安装目录下的bin目录
 		运行 	mongod --dbpath=数据库所在地址 --port=端口
-				mongod --dbpath=C:\Users\yangchen\Desktop\网课资料\node\project\blog\db --port=8090
+			
 
 
 
